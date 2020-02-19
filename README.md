@@ -1,2 +1,2 @@
 # Air-Quality-Index-forecasting-of-world-s-most-polluted-city-Gurugram
-Forecasting the air quality Index comprising of different air pollutants by implementing novel PROPHET (facebook) forecasting model along with other time statistical and deep learning models
+Forecasting the air quality Index comprising of different air pollutants by implementing novel PROPHET (facebook) forecasting model along with other time statistical and deep learning models. In order to validate the performance of novel PROPHET model, it was also tested on a completely new dataset of delhi. Results shows that PROPHET outperformed all the state of the art models in terms of mulitple evaluation metrics such as RMSE, MSE, MAE and MAPE. 
